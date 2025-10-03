@@ -6,7 +6,7 @@ package demo;
 public class Demo2 {
     public static void main(String[] args) {
 	System.out.println("Linea 1");
-	System.out.println("cambio 3 mars en confli");
+	System.out.println("cambio 3 Solucionado");
 	System.out.println("Linea 3");
     }
     /** cambio desde mars **/
